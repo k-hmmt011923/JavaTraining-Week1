@@ -7,7 +7,9 @@ JavaTraining-Week1 じゃんけんゲーム
 cd src
 
 2.Java ファイルをコンパイル
-javac Janken.java 3.クラスファイルを実行
+javac Janken.java 
+
+3.クラスファイルを実行
 java Janken
 
 工夫した点・学んだこと
