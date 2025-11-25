@@ -3,11 +3,11 @@ JavaTraining-Week1 じゃんけんゲーム
 
 実行方法
 
- 1.ターミナルで src フォルダに移動　
+1.ターミナルで src フォルダに移動　
 cd src
 
 2.Java ファイルをコンパイル
-javac Janken.java 
+javac Janken.java
 
 3.クラスファイルを実行
 java Janken
